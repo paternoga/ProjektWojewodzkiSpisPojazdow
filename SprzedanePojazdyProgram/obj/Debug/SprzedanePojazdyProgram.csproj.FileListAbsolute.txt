@@ -1,0 +1,13 @@
+C:\Users\KUBA\source\repos\SprzedanePojazdyProgram\SprzedanePojazdyProgram\bin\Debug\SprzedanePojazdyProgram.exe.config
+C:\Users\KUBA\source\repos\SprzedanePojazdyProgram\SprzedanePojazdyProgram\bin\Debug\SprzedanePojazdyProgram.exe
+C:\Users\KUBA\source\repos\SprzedanePojazdyProgram\SprzedanePojazdyProgram\bin\Debug\SprzedanePojazdyProgram.pdb
+C:\Users\KUBA\source\repos\SprzedanePojazdyProgram\SprzedanePojazdyProgram\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\KUBA\source\repos\SprzedanePojazdyProgram\SprzedanePojazdyProgram\obj\Debug\SprzedanePojazdyProgram.csproj.AssemblyReference.cache
+C:\Users\KUBA\source\repos\SprzedanePojazdyProgram\SprzedanePojazdyProgram\obj\Debug\SprzedanePojazdyProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\KUBA\source\repos\SprzedanePojazdyProgram\SprzedanePojazdyProgram\obj\Debug\SprzedanePojazdyProgram.Form1.resources
+C:\Users\KUBA\source\repos\SprzedanePojazdyProgram\SprzedanePojazdyProgram\obj\Debug\SprzedanePojazdyProgram.Properties.Resources.resources
+C:\Users\KUBA\source\repos\SprzedanePojazdyProgram\SprzedanePojazdyProgram\obj\Debug\SprzedanePojazdyProgram.csproj.GenerateResource.cache
+C:\Users\KUBA\source\repos\SprzedanePojazdyProgram\SprzedanePojazdyProgram\obj\Debug\SprzedanePojazdyProgram.csproj.CoreCompileInputs.cache
+C:\Users\KUBA\source\repos\SprzedanePojazdyProgram\SprzedanePojazdyProgram\obj\Debug\SprzedanePojazdyProgram.csproj.CopyComplete
+C:\Users\KUBA\source\repos\SprzedanePojazdyProgram\SprzedanePojazdyProgram\obj\Debug\SprzedanePojazdyProgram.exe
+C:\Users\KUBA\source\repos\SprzedanePojazdyProgram\SprzedanePojazdyProgram\obj\Debug\SprzedanePojazdyProgram.pdb
